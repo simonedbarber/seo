@@ -4,7 +4,7 @@ The SEO library allows for the management and injection of dynamic data into HTM
 
 [![Build Status](https://travis-ci.com/qor/seo.svg?branch=master)](https://travis-ci.com/qor/seo)
 
-[![GoDoc](https://godoc.org/github.com/qor/seo?status.svg)](https://godoc.org/github.com/qor/seo)
+[![GoDoc](https://godoc.org/github.com/simonedbarber/seo?status.svg)](https://godoc.org/github.com/simonedbarber/seo)
 
 
 ## Definition

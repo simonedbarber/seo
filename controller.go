@@ -6,8 +6,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/qor/admin"
-	"github.com/qor/responder"
+	"github.com/simonedbarber/admin"
+	"github.com/simonedbarber/responder"
 )
 
 type seoController struct {

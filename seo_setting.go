@@ -9,10 +9,10 @@ import (
 	"net/url"
 	"time"
 
-	"github.com/qor/admin"
-	"github.com/qor/media/media_library"
-	"github.com/qor/qor"
-	"github.com/qor/qor/resource"
+	"github.com/simonedbarber/admin"
+	"github.com/simonedbarber/media/media_library"
+	"github.com/simonedbarber/qor"
+	"github.com/simonedbarber/qor/resource"
 )
 
 // QorSEOSettingInterface support customize Seo model
